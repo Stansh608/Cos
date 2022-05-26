@@ -100,6 +100,10 @@ nav.sticky .menu a:hover {
 nav.sticky .media-icons a {
   color: #FFF;
 }
+#signup-btn{
+  border: 2px;
+  border-radius: 30px;
+}
 
 /* Side Navigation Menu Button CSS */
 nav .menu-btn,
@@ -139,8 +143,10 @@ nav.sticky .menu-btn {
 }
 
 .home .home-content {
-  background-image: url("Images/istockphoto-1205699474-170667a.jpg");
+  background-image: url("Images/cosm3.jpg");
   background-attachment: fixed;
+  
+  background-size: 100% 100%;
   width: 100%;
   height: 100%;
   margin-right: 0;
